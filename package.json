@@ -14,7 +14,7 @@
     ],
     "dependencies": {
         "async": "^2.5.0",
-        "cross-fetch": "^3.0.0",
+        "cross-fetch": "^3.0.2",
         "iana-hashes": "^1.1.0",
         "jxt": "^4.0.0",
         "sdp": "^2.9.0",
